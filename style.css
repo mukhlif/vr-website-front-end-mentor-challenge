@@ -1,0 +1,31 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.photo{
+    background-image: url('images/desktop/image-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 105%;
+    padding-bottom: 20em;
+}
+
+.text-light{
+    font-weight: lighter;
+    text-transform: uppercase;    
+}
+.edit{
+    margin-left:2em;
+
+}
+.edit h1{
+    font-weight: lighter;
+    font-size: 55px;
+    text-transform: uppercase;
+    
+}
+.pb-5{
+    padding-top:10em;
+}
+
+.bigger-text {
+    font-size: 4rem;
+}
